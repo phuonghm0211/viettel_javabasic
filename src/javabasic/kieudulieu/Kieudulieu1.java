@@ -8,6 +8,7 @@ public class Kieudulieu1 {
             byte number = -128;
             boolean checkValue = true;  //true, false
             short number2 = 32000;
+            short number3 = 32000;
 
             float number5 = 12292222.33454552F;
             double number6 = 125567534222D;
