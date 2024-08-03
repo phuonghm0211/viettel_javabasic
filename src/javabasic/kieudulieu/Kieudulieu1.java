@@ -9,7 +9,7 @@ public class Kieudulieu1 {
             boolean checkValue = true;  //true, false
             short number2 = 32000;
             short number3 = 32000;
-                short number4 = 32000;
+                short number4 = 32002;
 
             float number5 = 12292222.33454552F;
             double number6 = 125567534222D;
